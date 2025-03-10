@@ -1,0 +1,26 @@
+body{
+    background-color:paleturquoise;
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+}
+.picture{
+    max-width: 50%;
+    height: auto;
+}
+.body_box{
+    height:940px;
+    width:600px;
+    background-color:lightsteelblue;
+}
+.elevator_pitch_box{
+    height:940px;
+    width:1400px;
+    background-color:rgb(255, 151, 186);
+}
+.GVMPage2Questions{
+    height:2000px;
+    width:1400px;
+    background-color:aliceblue;
+}
